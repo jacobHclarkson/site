@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building a Home Server - Part 1"
-date:   2022-08-25 17:08:20 +0200
+date:   2022-09-05 10:00:00 +0200
 categories: projects home-server
 ---
 
