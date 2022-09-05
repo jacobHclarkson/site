@@ -21,14 +21,15 @@
 title: jhc
 author: Jacob Clarkson
 # email: jacob h clarkson at gmail dot com
-# description: >- # this means to ignore newlines until "baseurl:"
-#   Personal site of Jacob Clarkson.
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal site of Jacob Clarkson
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.jacobhclarkson.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: jhc_za
 github_username:  jacobHclarkson
+linkedin_username: jacobhclarkson
 
 # Build settings
 theme: minima
