@@ -7,7 +7,7 @@ categories: projects home-server
 
 # Choosing an Operating System
 
-For this project, I want three things from the OS (not necessarily in this
+For this project, I want five things from the OS (not necessarily in this
 order). The OS must be:
 1. **Low maintenance**: I don't want to spend too much time
    updating/fiddling/fixing.
