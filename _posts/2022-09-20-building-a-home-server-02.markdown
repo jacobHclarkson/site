@@ -41,7 +41,7 @@ I have read that OpenSuse is a fantastic server distro. I tried it once as a
 Desktop distro, and I can certainly see how that might be the case. They offer a
 stable release, and the software is super polished. I was blown away by some of
 the tooling that is set up out of the box, like automated full system
-snapshotting courtesy of ZFS. However, I'm a little too unfamiliar with the
+snapshotting courtesy of BTRFS. However, I'm a little too unfamiliar with the
 ecosystem to want to use it for this project - I found it hard to know where to
 look for good info when last I used it. If my objectives were slightly
 different, and I was willing to spend more time learning about the OS itself, as
